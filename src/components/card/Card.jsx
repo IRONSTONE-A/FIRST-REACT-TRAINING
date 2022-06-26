@@ -1,12 +1,14 @@
 import Buton from "../buton/Buton"
 import "./Card.module.css"
 
-const Card = () => {
+const Card = ({img, btnName, dil }) => {
   return (
     <div>
-        <Buton/>
+      <h1 className="title">{dil}</h1>
+      <img className="images" src={img} alt="img" />
+      <Buton btnName={btnName}/>
     </div>
-  )
-}
+  );
+};
 
-export default Card
+export default Card;

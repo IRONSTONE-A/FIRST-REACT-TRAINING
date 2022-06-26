@@ -1,9 +1,14 @@
 import "./Buton.module.css"
 
-const Buton = () => {
+const Buton = ({btnName}) => {
   return (
-    <div>Buton</div>
+    <div className="title">
+    
+      <button className="btn-blue">{btnName}</button>
+    
+    </div>
+    
   )
 }
 
-export default Buton
+export default Buton;
