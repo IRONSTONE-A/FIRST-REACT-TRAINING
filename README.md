@@ -1,4 +1,4 @@
-# :point_right: [Click here to see on browser](https://sass-project-beige.vercel.app/)
+# FİRST REACT- TRAINING
 
 ### I used;
   - <b>HTML</b>
@@ -11,4 +11,4 @@
 
 
 
-![Random User App](https://github.com/IRONSTONE-A/SASS-PROJECT/blob/master/img/sass.project%20.gif)
+![Random User App](https://github.com/IRONSTONE-A/FIRST-REACT-TRAINING/blob/master/first-react.png)
